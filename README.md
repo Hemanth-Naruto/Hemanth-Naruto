@@ -29,9 +29,10 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://th.bing.com/th?id=OIP.0mabFE_RQxke-kS9fOZ3DAHaHR&w=252&h=247&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2" title="MSExcel"  alt="MSExcel" width="40" height="40"/>&nbsp;
+  <img src="https://th.bing.com/th/id/OIP.o_kfrTbQ6q-0CfUZJ6iDNwHaHV?w=1504&h=1490&rs=1&pid=ImgDetMain" title="PowerBI"  alt="PowerBI" width="40" height="40"/>&nbsp;
+  <img src="https://logodix.com/logo/542135.jpg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://th.bing.com/th/id/OIP.o_kfrTbQ6q-0CfUZJ6iDNwHaHV?w=1504&h=1490&rs=1&pid=ImgDetMain" title="PowerBI"  alt="PowerBI" width="40" height="40"/>&nbsp;
-   <img src="https://logodix.com/logo/542135.jpg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
 </div>
 <!---
